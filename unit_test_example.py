@@ -26,4 +26,4 @@
         self.assertEqual(get_check_cost(150000), 'Bullet', 'The Nearest cost to row 40 is in the bullet!')
 
 
-    unittest.main()
+unittest.main()
